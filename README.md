@@ -1,6 +1,6 @@
 # Chirper 
 It is a open source project, that I have done from Laravel Bootcamp. It is a mini social app where user can CREATE, READ, UPDATE and DELETE post and all users can see the post from other users.
-# Installation
+## Installation
 
 1. Open terminal, and write the following code:
 ```
@@ -40,10 +40,7 @@ php artisan key:generate
 ```
 php artisan serve
 ```
-10. Go to:
-```
-http://127.0.0.1:8000/
-```
+10.  Go to: <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a>
 
 ## Contribute
 
